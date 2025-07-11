@@ -1,6 +1,7 @@
-# 🌆 Greendale Municipal Website
+# 🌆 Greendale Municipal Website (bolt.new)
 
-A modern, responsive, and elegant municipal promotional website for the fictional city of **Greendale**. This static website is designed to introduce city services, tourism highlights, news updates, and contact information to residents and visitors alike.
+A modern, responsive, and elegant municipal promotional website for the fictional city of **Greendale**. 
+This static website is designed to introduce city services, tourism highlights, news updates, and contact information to residents and visitors alike.
 
 ---
 
@@ -47,7 +48,7 @@ You can deploy this project using GitHub Pages or any static hosting platform (e
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/your-username/greendale-website.git
+   git clone https://github.com/bektas-sari/greendale-website.git
    ```
 
 2. Open `index.html` directly in your browser or serve with Live Server extension in VSCode for development.
@@ -106,5 +107,3 @@ This project is provided for educational and portfolio purposes. Images and icon
 * [Google Fonts](https://fonts.google.com) for elegant typography
 
 ---
-
-> "Greendale isn't just a place on the map — it's a community."
